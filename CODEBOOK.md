@@ -61,5 +61,5 @@ For purposes of course project there will be only mean and standart deviations v
 | Y | 3-axial raw signal denotes Y axis |
 | Z | 3-axial raw signal denotes Z axis |
 
-
+For each measurement there will be taken mean value grouped by subject\_id and activity\_name. The result data set will consist of 180 rows(30 test subjects by 6 types of activties) and 68 columns(subject\_id, activity\_name and result means of 66 measurements of standart deviation and mean)
 
